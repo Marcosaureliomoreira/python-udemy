@@ -1,0 +1,7 @@
+Primeira linha
+
+A Udemy é uma plataforma EAD, 
+criada por Eren Bali, 
+de e-learning para profissionais 
+poderem tanto estudar como ensinar
+Última linha
