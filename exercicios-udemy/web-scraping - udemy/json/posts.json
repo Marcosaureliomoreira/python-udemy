@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "titulo": "Primeiro Post",
+      "texto": "Python: Por que uma das linguagens de programa\u00e7\u00e3o mais amada no mundo tem esse nome e qual a origem dele? Tem rela\u00e7\u00e3o com algum tipo de cobra? Descubra isso e muito mais neste artigo!",
+      "link": "primeirolink.html"
+    },
+    {
+      "titulo": "Segundo Post",
+      "texto": "Python: Por que uma das linguagens de programa\u00e7\u00e3o mais amada no mundo tem esse nome e qual a origem dele? Tem rela\u00e7\u00e3o com algum tipo de cobra? Descubra isso e muito mais neste artigo!",
+      "link": "segundolink.html"
+    },
+    {
+      "titulo": "Terceiro Post",
+      "texto": "Python: Por que uma das linguagens de programa\u00e7\u00e3o mais amada no mundo tem esse nome e qual a origem dele? Tem rela\u00e7\u00e3o com algum tipo de cobra? Descubra isso e muito mais neste artigo!",
+      "link": "terceirolink.html"
+    },
+    {
+      "titulo": "Quarto Post",
+      "texto": "Python: Por que uma das linguagens de programa\u00e7\u00e3o mais amada no mundo tem esse nome e qual a origem dele? Tem rela\u00e7\u00e3o com algum tipo de cobra? Descubra isso e muito mais neste artigo!",
+      "link": "quartolink.html"
+    }
+  ]
+}
