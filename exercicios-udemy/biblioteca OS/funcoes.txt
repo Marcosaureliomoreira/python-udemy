@@ -1,0 +1,31 @@
+# FUNÇÃO PARA CRIAR PASTAS USANDO A BIBLIOTECA OS:
+
+import os
+
+
+def criar_pasta(nome):
+    try:
+        n = str(input(nome))
+        caminho = 'C:/Users/morei/OneDrive/Área de Trabalho/'
+        os.mkdir(caminho + n)
+    except FileNotFoundError:
+        print('ERRO ao cria a pasta!')
+    else:
+        print('Pasta criada com sucesso!')
+
+
+criar_pasta('Digite o nome da pasta a ser criada: ')
+
+
+
+
+# FUNÇÃO PARA REMOVER PASTA USANDO A BIBLIOTECA OS:
+
+def remover_pasta(nome_pasta):
+    nm = str(input(nome_pasta))
+    caminho = r'C:/Users/morei/OneDrive/Área de Trabalho/'
+    os.rmdir(caminho + nm)
+
+
+remover_pasta('Digite o nome da pasta a ser removida: ')
+
