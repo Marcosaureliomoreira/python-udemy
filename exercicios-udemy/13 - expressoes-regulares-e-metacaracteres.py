@@ -531,3 +531,13 @@ m = p.finditer(texto)
 for match in m:
     print(match.group())
 
+
+
+
+
+# Expressão regular simplificada.
+var = 'Hello'
+p = re.compile('[a-z-A-Z]')
+ex = p.findall(var)
+for i in ex:
+    print(i, end='')
